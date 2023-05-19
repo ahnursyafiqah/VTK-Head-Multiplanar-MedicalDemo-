@@ -1,0 +1,58 @@
+Skip to content
+Product
+Solutions
+Open Source
+Pricing
+Search
+Sign in
+Sign up
+lorensen
+/
+VTKExamples
+Public
+Code
+Issues
+24
+Pull requests
+2
+Actions
+Security
+Insights
+VTKExamples/src/Testing/Data/FullHead.mhd
+@lorensen
+lorensen ENH: Move gh-pages to master
+Latest commit 9360a8b on May 16, 2017
+ History
+ 1 contributor
+14 lines (14 sloc)  352 Bytes
+ 
+
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = -1 0 0 0 1 0 0 0 -1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = LAS
+ElementSpacing = 0.9375 0.9375 1.5
+ITK_InputFilterName = MetaImageIO
+DimSize = 256 256 94
+ElementType = MET_SHORT
+ElementDataFile = FullHead.raw
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+VTKExamples/FullHead.mhd at master · lorensen/VTKExamples · GitHub
